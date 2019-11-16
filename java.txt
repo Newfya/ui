@@ -1,0 +1,1 @@
+import ÒıÈë public class void main (String[]atgs)( try( FileReader reader = new FileReader )cath(FileNotFoundExepytion e){ }

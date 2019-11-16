@@ -1,0 +1,647 @@
+C:\Users\Newfya\Documents\WeChat Files\fya9898\FileStorage\File
+
+1、Animals 2、Party Rock Anthem 3、Axel F 4、Cheerleaders 5、Summer 6、Faded 7、Rockabye 8、This Is What You Came For 9、Closer 10、Wake me up 11、New Rules 12、Hey Mama 13、Something Just like this 14、Starboy 15、Lean on 以上歌曲是按视频顺序播放，不是排名。 保存
+
+计算机英语词汇
+CPU(Center   Processor   Unit)中央处理单元  
+mainboard主板  
+RAM(random   access  
+memory)随机存储器(内存)  
+ROM(Read   Only   Memory)只读存储器  
+Floppy   Disk软盘  
+Hard   Disk硬盘  
+CD-ROM光盘驱动器(光驱)  
+monitor监视器  
+keyboard键盘  
+mouse鼠标  
+chip芯片  
+CD-R光盘刻录机  
+HUB集线器  
+Modem=   MOdulator-DEModulator,调制解调器  
+P-P(Plug   and   Play)即插即用  
+UPS(Uninterruptable   Power   Supply)不间断电源  
+BIOS(Basic-input-Output  
+System)基本输入输出系统  
+CMOS(Complementary   Metal-Oxide-Semiconductor)互补金属氧化物半导体  
+setup安装  
+uninstall卸载  
+wizzard向导  
+OS(Operation   Systrem)操作系统  
+OA(Office   AutoMation)办公自动化  
+exit退出  
+edit编辑  
+copy复制  
+cut剪切  
+paste粘贴  
+delete删除  
+select选择  
+find查找  
+select   all全选  
+replace替换  
+undo撤消  
+redo重做  
+program程序  
+license许可(证)  
+back前一步  
+next下一步  
+finish结束  
+folder文件夹  
+Destination   Folder目的文件夹  
+user用户  
+click点击  
+double   click双击  
+right   click右击  
+settings设置  
+update更新  
+release发布  
+data数据  
+data   base数据库  
+DBMS(Data   Base   Manege  
+System)数据库管理系统  
+view视图  
+insert插入  
+object对象  
+configuration配置  
+command命令  
+document文档  
+POST(power-on-self-test)电源自检程序  
+cursor光标  
+attribute属性  
+icon图标  
+service   pack服务补丁  
+option   pack功能补丁  
+Demo演示  
+short   cut快捷方式  
+exception异常  
+debug调试  
+previous前一个  
+column行  
+row列  
+restart重新启动  
+text文本  
+font字体  
+size大小  
+scale比例  
+interface界面  
+function函数  
+access访问  
+manual指南  
+active激活  
+computer   language计算机语言  
+menu菜单  
+GUI(graphical   user  
+interfaces   )图形用户界面  
+template模版  
+page   setup页面设置  
+password口令  
+code密码  
+print   preview打印预览  
+zoom   in放大  
+zoom   out缩小  
+pan漫游  
+cruise漫游  
+full   screen全屏  
+tool   bar工具条  
+status   bar状态条  
+ruler标尺  
+table表  
+paragraph段落  
+symbol符号  
+style风格  
+execute执行  
+graphics图形  
+image图像  
+Unix用于服务器的一种操作系统  
+Mac   OS苹果公司开发的操作系统  
+OO(Object-Oriented)面向对象  
+virus病毒  
+file文件  
+open打开  
+colse关闭  
+new新建  
+save保存  
+exit退出  
+clear清除  
+default默认  
+LAN局域网  
+WAN广域网  
+Client/Server客户机/服务器  
+ATM(   Asynchronous  
+Transfer   Mode)异步传输模式  
+Windows   NT微软公司的网络操作系统  
+Internet互联网  
+WWW(World   Wide   Web)万维网  
+protocol协议  
+HTTP超文本传输协议  
+FTP文件传输协议  
+Browser浏览器  
+homepage主页  
+Webpage网页  
+website网站  
+URL在Internet的WWW服务程序上  
+用于指定信息位置的表示方法  
+Online在线  
+Email电子邮件  
+ICQ网上寻呼  
+Firewall防火墙  
+Gateway网关  
+HTML超文本标识语言  
+hypertext超文本  
+hyperlink超级链接  
+IP(Address)互联网协议(地址)  
+SearchEngine搜索引擎  
+TCP/IP用于网络的一组通讯协议  
+Telnet远程登录  
+IE(Internet   Explorer)探索者(微软公司的网络浏览器)  
+Navigator引航者(网景公司的浏览器)  
+multimedia多媒体  
+ISO国际标准化组织  
+ANSI美国国家标准协会  
+able   能  
+activefile   活动文件  
+addwatch   添加监视点  
+allfiles   所有文件  
+allrightsreserved   所有的权力保留  
+altdirlst   切换目录格式  
+andfixamuchwiderrangeofdiskproblems   并能够解决更大范围内的磁盘问题  
+andotherinFORMation   以及其它的信息  
+archivefileattribute   归档文件属性  
+assignto   指定到  
+autoanswer   自动应答  
+autodetect   自动检测  
+autoindent   自动缩进  
+autosave   自动存储  
+availableonvolume   该盘剩余空间  
+badcommand   命令错  
+badcommandorfilename   命令或文件名错  
+batchparameters   批处理参数  
+binaryfile   二进制文件  
+binaryfiles   二进制文件  
+borlandinternational   borland国际公司  
+bottommargin   页下空白  
+bydate   按日期  
+byextension   按扩展名  
+byname   按名称  
+bytesfree   字节空闲  
+callstack   调用栈  
+casesensitive   区分大小写  
+causespromptingtoconfirmyouwanttooverwritean   要求出现确认提示,在你想覆盖一个  
+centralpointsoftwareinc   central   point   软件股份公司  
+changedirectory   更换目录  
+changedrive   改变驱动器  
+changename   更改名称  
+characterset   字符集  
+checkingfor   正在检查  
+checksadiskanddisplaysastatusreport   检查磁盘并显示一个状态报告  
+chgdrivepath   改变盘/路径  
+china   中国  
+chooseoneofthefollowing   从下列中选一项  
+clearall   全部清除  
+clearallbreakpoints   清除所有断点  
+clearsanattribute   清除属性  
+clearscommandhistory   清除命令历史  
+clearscreen   清除屏幕  
+closeall   关闭所有文件  
+codegeneration   代码生成  
+colorpalette   彩色调色板  
+commandline   命令行  
+commandprompt   命令提示符  
+compressedfile   压缩文件  
+configuresaharddiskforusewithmsdos   配置硬盘,以为   MS-DOS   所用  
+conventionalmemory   常规内存  
+copiesdirectoriesandsubdirectoriesexceptemptyones   拷贝目录和子目录,空的除外  
+copiesfileswiththearchiveattributeset   拷贝设置了归档属性的文件  
+copiesoneormorefilestoanotherlocation   把文件拷贝或搬移至另一地方  
+copiesthecontentsofonefloppydisktoanother   把一个软盘的内容拷贝到另一个软盘上  
+copydiskette   复制磁盘  
+copymovecompfindrenamedeletevervieweditattribwordpprintlist   C拷贝M移动   O比   F搜索R改名   D删除   V版本   E浏览A属性   W写字   P打印   L列表  
+copyrightc   版权(c  
+createdospartitionorlogicaldosdrive   创建DOS分区或逻辑DOS驱动器  
+createextendeddospartition   创建扩展DOS分区  
+createlogicaldosdrivesintheextendeddospartition   在扩展DOS分区中创建逻辑DOS驱动器  
+createprimarydospartition   创建DOS主分区  
+createsadirectory   创建一个目录  
+createschangesordeletesthevolumelabelofadisk   创建,改变或删除磁盘的卷标  
+currentfile   当前文件  
+currentfixeddiskdrive   当前硬盘驱动器  
+currentsettings   当前设置  
+currenttime   当前时间  
+cursorposition   光标位置  
+defrag   整理碎片  
+dele   删去  
+deletepartitionorlogicaldosdrive   删除分区或逻辑DOS驱动器  
+deletesadirectoryandallthesubdirectoriesandfilesinit   删除一个目录和所有的子目录及其中的所有文件  
+deltree   删除树  
+devicedriver   设备驱动程序  
+dialogbox   对话栏  
+directionkeys   方向键  
+directly   直接地  
+directorylistargument   目录显示变量  
+directoryof   目录清单  
+directorystructure   目录结构  
+diskaccess   磁盘存取  
+diskcopy   磁盘拷贝  
+diskservicescopycomparefindrenameverifyvieweditmaplocateinitialize   磁盘服务功能:   C拷贝   O比较   F搜索R改卷名V校验   浏览E编缉M图   L找文件   N格式化  
+diskspace   磁盘空间  
+displayfile   显示文件  
+displayoptions   显示选项  
+displaypartitioninFORMation   显示分区信息  
+displaysfilesinspecifieddirectoryandallsubdirectories   显示指定目录和所有目录下的文件  
+displaysfileswithspecifiedattributes   显示指定属性的文件  
+displaysorchangesfileattributes   显示或改变文件属性    
+displaysorsetsthedate   显示或设备日期  
+displayssetupscreensinmonochromeinsteadofcolor   以单色而非彩色显示安装屏信息  
+displaystheamountofusedandfreememoryinyoursystem   显示系统中已用和未用的内存数量  
+displaysthefullpathandnameofeveryfileonthedisk   显示磁盘上所有文件的完整路径和名称  
+displaysthenameoforchangesthecurrentdirectory   显示或改变当前目录  
+doctor   医生  
+doesn   不  
+doesntchangetheattribute   不要改变属性  
+dosshell   DOS   外壳  
+doubleclick   双击  
+doyouwanttodisplaythelogicaldriveinFORMationyn   你想显示逻辑驱动器信息吗(y/n)?  
+driveletter   驱动器名  
+editmenu   编辑选单  
+emsmemory   ems内存  
+endoffile   文件尾  
+endofline   行尾  
+enterchoice   输入选择  
+entiredisk   转换磁盘  
+environmentvariable   环境变量  
+esc   esc  
+everyfileandsubdirectory   所有的文件和子目录  
+existingdestinationfile   已存在的目录文件时  
+expandedmemory   扩充内存  
+expandtabs   扩充标签  
+explicitly   明确地  
+extendedmemory   扩展内存  
+fastest   最快的  
+fatfilesystem   fat   文件系统  
+fdiskoptions   fdisk选项  
+fileattributes   文件属性  
+fileFORMat   文件格式  
+filefunctions   文件功能  
+fileselection   文件选择  
+fileselectionargument   文件选择变元  
+filesin   文件在  
+filesinsubdir   子目录中文件  
+fileslisted   列出文件  
+filespec   文件说明  
+filespecification   文件标识  
+filesselected   选中文件  
+findfile   文件查寻  
+fixeddisk   硬盘  
+fixeddisksetupprogram   硬盘安装程序  
+fixeserrorsonthedisk   解决磁盘错误  
+floppydisk   软盘  
+FORMatdiskette   格式化磁盘  
+FORMatsadiskforusewithmsdos   格式化用于MS-DOS的磁盘  
+FORMfeed   进纸  
+freememory   闲置内存  
+fullscreen   全屏幕  
+functionprocedure   函数过程  
+graphical   图解的  
+graphicslibrary   图形库  
+groupdirectoriesfirst   先显示目录组  
+hangup   挂断  
+harddisk   硬盘  
+hardwaredetection   硬件检测  
+hasbeen   已经  
+helpfile   帮助文件  
+helpindex   帮助索引  
+helpinFORMation   帮助信息  
+helppath   帮助路径  
+helpscreen   帮助屏  
+helptext   帮助说明  
+helptopics   帮助主题  
+helpwindow   帮助窗口  
+hiddenfile   隐含文件  
+hiddenfileattribute   隐含文件属性  
+hiddenfiles   隐含文件  
+howto   操作方式  
+ignorecase   忽略大小写  
+inbothconventionalanduppermemory   在常规和上位内存  
+incorrectdos   不正确的DOS  
+incorrectdosversion   DOS   版本不正确  
+indicatesabinaryfile   表示是一个二进制文件  
+indicatesanasciitextfile   表示是一个ascii文本文件  
+insertmode   插入方式  
+insteadofusingchkdsktryusingscandisk   请用scandisk,不要用chkdsk  
+inuse   在使用  
+invaliddirectory   无效的目录  
+is   是  
+kbytes   千字节  
+keyboardtype   键盘类型  
+labeldisk   标注磁盘  
+laptop   膝上  
+largestexecutableprogram   最大可执行程序  
+largestmemoryblockavailable   最大内存块可用  
+lefthanded   左手习惯  
+leftmargin   左边界  
+linenumber   行号  
+linenumbers   行号  
+linespacing   行间距  
+listbyfilesinsortedorder   按指定顺序显示文件  
+listfile   列表文件  
+listof   清单  
+locatefile   文件定位  
+lookat   查看  
+lookup   查找  
+macroname   宏名字  
+makedirectory   创建目录  
+memoryinfo   内存信息  
+memorymodel   内存模式  
+menubar   菜单条  
+menucommand   菜单命令  
+menus   菜单  
+messagewindow   信息窗口  
+microsoft   微软  
+microsoftantivirus   微软反病毒软件  
+microsoftcorporation   微软公司  
+mini   小的  
+modemsetup   调制解调器安装  
+modulename   模块名  
+monitormode   监控状态  
+monochromemonitor   单色监视器  
+moveto   移至  
+multi   多  
+newdata   新建数据  
+newer   更新的  
+newfile   新文件  
+newname   新名称  
+newwindow   新建窗口  
+norton   norton  
+nostack   栈未定义  
+noteusedeltreecautiously   注意:小心使用deltree  
+onlinehelp   联机求助  
+optionally   可选择地  
+or   或  
+pageframe   页面  
+pagelength   页长  
+pausesaftereachscreenfulofinFORMation   在显示每屏信息后暂停一下  
+pctools   pc工具  
+postscript   附言  
+prefixmeaningnot   前缀意即 "不  
+prefixtoreverseorder   反向显示的前缀  
+presetswitchesbyprefixinganyswitchwithhyphenforexamplew   用前缀和放在短横线-后的开关(例如/-w)预置开关  
+pressakeytoresume   按一键继续  
+pressanykeyforfilefunctions   敲任意键执行文件功能  
+pressentertokeepthesamedate   敲回车以保持相同的日期  
+pressentertokeepthesametime   敲回车以保持相同的时间  
+pressesctocontinue   敲esc继续  
+pressesctoexit   敲键退出  
+pressesctoexitfdisk   敲esc退出fdisk  
+pressesctoreturntofdiskoptions   敲esc返回fdisk选项  
+previously   在以前  
+printall   全部打印  
+printdevice   打印设备  
+printerport   打印机端口  
+processesfilesinalldirectoriesinthespecifiedpath   在指定的路径下处理所有目录下的文件  
+programfile   程序文件  
+programmingenvironment   程序设计环境  
+promptsyoubeforecreatingeachdestinationfile   在创建每个目标文件时提醒你  
+promptsyoutopressakeybeforecopying   在拷贝前提示你敲一下键  
+pulldown   下拉  
+pulldownmenus   下拉式选单  
+quickFORMat   快速格式化  
+quickview   快速查看  
+readonlyfile   只读文件  
+readonlyfileattribute   只读文件属性  
+readonlyfiles   只读文件  
+readonlymode   只读方式  
+redial   重拨  
+repeatlastfind   重复上次查找  
+reportfile   报表文件  
+resize   调整大小  
+respectively   分别地  
+rightmargin   右边距  
+rootdirectory   根目录   
+runsdebugaprogramtestingandeditingtool   运行debug,   它是一个测试和编辑工具  
+runtimeerror   运行时出错  
+saveall   全部保存  
+saveas   另存为  
+scandisk   磁盘扫描程序  
+scandiskcanreliablydetect   scandisk可以可靠地发现  
+screencolors   屏幕色彩  
+screenoptions   屏幕任选项  
+screensaver   屏幕暂存器  
+screensavers   屏幕保护程序  
+screensize   屏幕大小  
+scrollbars   翻卷栏  
+scrolllockoff   滚屏已锁定  
+searchfor   搜索  
+sectorspertrack   每道扇区数  
+selectgroup   选定组  
+selectionbar   选择栏  
+setactivepartition   设置活动分区  
+setupoptions   安装选项  
+shortcutkeys   快捷键  
+showclipboard   显示剪贴板  
+singleside   单面  
+sizemove   大小/移动  
+sorthelp   S排序H帮助  
+sortorder   顺序  
+specialservicesdirectorymaint   特殊服务功能:   D目录维护  
+specifiesdrivedirectoryandorfilestolist   指定要列出的驱动器,目录,和文件  
+specifiesthatyouwanttochangetotheparentdirectory   指定你想把父目录作为当前目录  
+specifiesthedirectoryandorfilenameforthenewfile   指定新文件的目录或文件名  
+specifiesthefileorfilestobecopied   指定要拷贝的文件  
+stackoverflow   栈溢出  
+standalone   独立的  
+startupoptions   启动选项  
+statusline   状态行  
+stepover   单步  
+summaryof   摘要信息  
+suppressespromptingtoconfirmyouwanttooverwritean   取消确认提示,在你想覆盖一个  
+swapfile   交换文件  
+switchesmaybepresetinthedircmdenvironmentvariable   开关可在dircmd环境变量中设置  
+switchto   切换到  
+sync   同步  
+systemfile   系统文件  
+systemfiles   系统文件  
+systeminfo   系统信息  
+systeminFORMation   系统信息程序  
+tableofcontents   目录  
+terminalemulation   终端仿真  
+terminalsettings   终端设置  
+testfile   测试文件  
+testfileparameters   测试文件参数  
+theactivewindow   激活窗口  
+theswitchymaybepresetinthecopycmdenvironmentvariable   /y开关可以在copycmd环境变量中预置  
+thetwofloppydisksmustbethesametype   两个软磁盘必须是同种类型的  
+thismaybeoverriddenwithyonthecommandline   在命令行输入/-y可以使之无效  
+togglebreakpoint   切换断点  
+tomsdos   转到MS-DOS  
+topmargin   页面顶栏  
+turnoff   关闭  
+typecddrivetodisplaythecurrentdirectoryinthespecifieddrive   键入cd驱动器:显示指定驱动器的当前目录  
+typecdwithoutparameterstodisplaythecurrentdriveanddirectory   键入无参数的cd以显示当前驱动器的当前目录  
+typedatewithoutparameterstodisplaythecurrentdatesettingand   键入无参数的date,显示当前日期设置和  
+unmark   取消标记  
+unselect   取消选择  
+usesbareFORMat   使用简洁方式  
+useslowercase   使用小写  
+useswidelistFORMat   使用宽行显示  
+usinghelp   使用帮助  
+verbosely   冗长地  
+verifiesthatnewfilesarewrittencorrectly   校验新文件是否正确写入了  
+videomode   显示方式  
+viewwindow   内容浏览  
+viruses   病毒  
+vision   景象  
+vollabel   卷标  
+volumelabel   卷标  
+volumeserialnumberis   卷序号是  
+windowshelp   windows   帮助  
+wordwrap   整字换行  
+workingdirectory   正在工作的目录  
+worm   蠕虫  
+writemode   写方式  
+writeto   写到  
+xmsmemory   扩充内存  
+youmay   你可以 
+
+我把网络安全方面的专业词汇整理了一下，虽然大多是乱谈，但初衷在于初学者能更好的了解这些词汇。不全和错误的地方还望高手补充：  
+Access   Control   List（ACL）   访问控制列表  
+access   token   访问令牌  
+account   lockout   帐号封锁  
+account   policies   记帐策略  
+accounts   帐号  
+adapter   适配器  
+adaptive   speed   leveling   自适应速率等级调整  
+Address   Resolution   Protocol(ARP)   地址解析协议  
+Administrator   account   管理员帐号  
+ARPANET   阿帕网（internet的前身）  
+algorithm   算法  
+alias   别名  
+allocation   分配、定位  
+alias   小应用程序  
+allocation   layer   应用层  
+API   应用程序编程接口  
+anlpasswd   一种与Passwd+相似的代理密码检查器  
+applications   应用程序  
+ATM   异步传递模式  
+attack   攻击  
+audio   policy   审记策略  
+auditing   审记、监察  
+back-end   后端  
+borde   边界  
+borde   gateway   边界网关  
+breakabie   可破密的  
+breach   攻破、违反  
+cipher   密码  
+ciphertext   密文  
+CAlass   A   domain   A类域  
+CAlass   B   domain   B类域  
+CAlass   C   domain   C类域  
+classless   addressing   无类地址分配  
+cleartext   明文  
+CSNW   Netware客户服务  
+client   客户，客户机  
+client/server   客户机/服务器  
+code   代码  
+COM   port   COM口（通信端口）  
+CIX   服务提供者  
+computer   name   计算机名  
+crack   闯入  
+cryptanalysis   密码分析  
+DLC   数据链路控制  
+decryption   解密  
+database   数据库  
+***ult   route   缺省路由  
+***ult   share   缺省共享  
+denial   of   service   拒绝服务  
+dictionary   attack   字典式攻击  
+directory   目录  
+directory   replication   目录复制  
+domain   域  
+domain   controller   域名控制器  
+domain   name   域名  
+域名其实就是入网计算机的名字，它的作用就象寄信需要写明人们的名字、地址一样重  
+要。域名结构如下：计算机主机名.机构名.网络名.最高层域名。域名用文字表达，比  
+用数字表达的IP地址容易记忆。加入Internet的各级网络依照DNS的命名规则对本网内  
+的计算机命名，并负责完成通讯时域名到IP地址的转换   。  
+DNS   域名服务器  
+DNS(Domain   Name   System,域名系统)是指在   Internet上查询域名或IP地址的目录服务系  
+统。在接收到请求时，它可将另一台主机的域名翻译为IP地址，或反之。大部分域名系  
+统都维护着一个大型的数据库，它描述了域名与   IP地址的对应关系，并且这个数据库被  
+定期地更新。翻译请求通常来自网络上的另一台计算机，它需要IP地址以便进行路由选择。  
+DDE   动态数据交换  
+DHCP   动态主机配置协议  
+encryption   加密  
+EGP   外部网关协议  
+FDDI   光纤分布式数据接口  
+FAT   文件分配表  
+FTP(File   Transfer   Protocol）   文件传送协议  
+filter   过滤器  
+firmware   固件  
+flooding   淹没  
+GSNW   NetWare网关服务  
+GDI(graphical   device   interface)   图形设备界面  
+GUI   图形用户界面  
+HTML   超文本标记语言  
+HTTP   超文本传送协议  
+IGP   内部安全性  
+ICMP(Internet   Control   Message   Protocol)   网际控制报文协议  
+ICMP用来发送关于IP数据报传输的控制和错误信息的TCP/IP协议。当一个IP数据报不能传送  
+到目的地时，可能是因为目的地的机器暂停服务或者信息交通阻塞，路由器可能使用ICMP将  
+失败信息通知发送者。  
+IGMP（Internet   Group   Management   Protocol，Internet群组管理协议）  
+这种TCP/IP协议允许Internet主机参加多点播送（multicasting）----一种向计算机群广播  
+信息的有效手段  
+IIS   信息服务器  
+IP(Internet   Protocol)   网际协议  
+IRC   网上交谈  
+ISP   网络服务提供者  
+IPX   互连网分组协议  
+IPC   进程间通信  
+IRQ   中断请求  
+IP   address   IP地址  
+IP地址称作网络协议地址，是分配给主机的一个32位地址，由4个字节组成，分为动  
+态IP地址和静态IP地址两种。动态IP地址指的是每次连线所取得的地址不同，而静  
+态IP地址是指每次连线均为同样固定的地址。一般情况下，以电话拨号所取得的地址  
+均为动态的，也就是每次所取得的地址不同。  
+IP   masquerade   IP伪装  
+IP   spoofing   IP欺骗  
+LAN   局域网  
+LPC   局部过程调用  
+NNTP   网络新闻传送协议  
+PPP   点到点协议  
+称为点对点通信协议(Point   to   Point   Protocol)，是为适应那些不能在网络线上的使  
+用者，通过电话线的连接而彼此通信所制定的协议。  
+PDC   主域控制器  
+Telnet   远程登陆  
+TCP/IP   传输控制协议/网际协议  
+TCP/IP通信协议主要包含了在Internet上网络通信细节的标准，以及一组网络互连的协  
+议和路径选择算法。TCP是传输控制协议，相当于物品装箱单，保证数据在传输过程中不  
+会丢失。IP是网间协议，相当于收发货人的地址和姓名，保证数据到达指定的地点。  
+TFTP   普通文件传送协议  
+TFTP是无盘计算机用来传输信息的一种简化的FTP协议。它非常之简单，所以可固化在硬  
+盘上，而且支持无认证操作。TFTP是一种非常不安全的协议。  
+Trojan   Horse   特洛伊木马  
+URL   统一资源定位器  
+UDP   用户数据报协议  
+VDM   虚拟DOS机  
+UUCP   是一种基于猫的使用已经很久的文件传输协议，有时候还使用它在Internet上传输  
+Usenet新闻和E-mail，尤其是在那些间断性联网的站点上。现在很少站提供匿名的UUCP来  
+存取文件。而它做为一种文件传输协议，只有那些没有入网而使用猫的用户使用此方法。  
+WWW   万维网  
+WWW(Word   Wide   Web)是Internet最新的一种信息服务。它是一种基于超文本文件的  
+交互式浏览检索工具。用户可用WWW在Internet网上浏览、传递、编辑超文本格式的文件。  
+WAN   广域网  
+virtual   server   虚拟服务器  
+Usenet  
+用户交流网Usenet是网络新闻服务器的主要信息来源。Usenet完全是一个民间自发建立  
+的，使用Internet交换信息但又不完全依赖Internet进行通讯的用户交流网络。使用Usenet  
+的自愿者共同遵守一些约定的网络使用规则。  
+USER   name   用户名  
+USER   account   用户帐号  
+Web   page   网页  
+OpenGL   开放图形语言  
+ODBC   开放数据库连接  
+PCI   外设连接接口  
+directory   目录  
+directory   replication   目录复制  
+domain   域  
+domain   controller   域名控制器  
+domain   name   域名

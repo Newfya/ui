@@ -1,0 +1,19 @@
+cmd
+mysql  -uroot  -p
+
+mysql 常用命令
+1.查看当前所有的数据库
+show databases;
+2.打开指定的库
+use 库  
+3.查看当前库的所有表
+show tables；
+4.查看其它库的所有表
+show table from 库ming；
+5.创建表
+create table 表（
+   列名 列类型
+   ...
+）
+6.查看表结构
+desc 表名称
